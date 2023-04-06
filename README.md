@@ -26,8 +26,7 @@
 
 ### 기술 스택
 
-- `FE` : html, 
-0.javascript, react, redux, styled-components
+- `FE` : html, javascript, react, redux, styled-components
 - `BE` : node.js, express, mysql, aws, oracle
 - `공통` : git, trello, figma, notion, slack
 
@@ -41,6 +40,17 @@
 6. 상세 페이지 : 가게 정보 제공, 후기 조회, 등록, 수정, 삭제, 지도 API 
 7. Nav : 검색 기능, 로그인 시 메뉴 항목 (로그인 -> 로그아웃으로 변경)
 8. Footer
+
+## 🖼️ 구현 예시
+
+<details>
+    <summary>이미지 보기</summary>
+    
+| 페이지 | 구현 내용 캡쳐 | 개발 담당 |
+| --- | --- | --- |
+| 장바구니 조회/삭제/수량 증감 <br> 장바구니 제품 총합 <br> 페이지 이동 | <p align="center"><img src="https://user-images.githubusercontent.com/101877533/212618404-722774ae-2276-4b21-8681-bb648880e501.gif" width = "400px"></p> | [FE] 황선용 <br> [BE] 김광휘 |
+| 결제완료 페이지 | <p align="center"><br><img src="https://user-images.githubusercontent.com/101877533/212618184-c3c52221-e18a-49aa-92f3-2427b0d35d1b.gif" width = "400px"></p> | [FE] 황선용 <br> [BE] 최민주 |
+</details>
 
 ## Reference
 
