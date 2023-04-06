@@ -48,8 +48,9 @@
     
 | 페이지 | 구현 내용 캡쳐 | 개발 담당 |
 | --- | --- | --- |
-| 장바구니 조회/삭제/수량 증감 <br> 장바구니 제품 총합 <br> 페이지 이동 | <p align="center"><img src="https://user-images.githubusercontent.com/101877533/212618404-722774ae-2276-4b21-8681-bb648880e501.gif" width = "400px"></p> | [FE] 황선용 <br> [BE] 김광휘 |
-| 결제완료 페이지 | <p align="center"><br><img src="https://user-images.githubusercontent.com/101877533/212618184-c3c52221-e18a-49aa-92f3-2427b0d35d1b.gif" width = "400px"></p> | [FE] 황선용 <br> [BE] 최민주 |
+| 검색 결과 정렬 | <p align="center"><img src="https://user-images.githubusercontent.com/101877533/230383892-28e52cff-2968-4be3-92a3-fed0db12304b.gif" width = "400px"></p> | [FE] 황선용 <br> [BE] 김광휘 |
+| 지도 기능 아이콘 | <p align="center"><br><img src="https://user-images.githubusercontent.com/101877533/230384069-fe49d1fb-544a-4362-a562-b4a75d16d8b2.gif" width = "400px"></p> | [FE] 황선용 <br> [BE] 김광휘 |
+| 현 위치 기능 | <p align="center"><br><img src="https://user-images.githubusercontent.com/101877533/230384232-45231a17-dd6e-48b7-9272-e0e02ea9ac13.gif" width = "400px"></p> | [FE] 황선용 <br> [BE] 김광휘 |
 </details>
 
 ## Reference
